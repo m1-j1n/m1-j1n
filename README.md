@@ -24,9 +24,8 @@
 
 | 프로젝트명                               | 기간                | 역할         | 기술 및 언어                   | 비고                          |
 |-------------------------------------|-------------------|------------|--------------------------|-----------------------------|
-| **[AI를 활용한 크라우드 매니지먼트 - MilGam]**(https://github.com/your-github-repo-link)
- | 2024.06 ~ 2024.07 | Front-end | React.js, Naver Maps API, ApexChart | 최우수상                 |
-| **[탄소감축을 위한 바다숲 조성 데이터 분석 프로젝트]**(https://github.com/m1-j1n/datacampus)               | 2022.06 ~ 2022.09 | 데이터분석      | Python, AWS          | 우수상  |
+| [**AI를 활용한 크라우드 매니지먼트 - MilGam**](https://github.com/your-github-repo-link) | 2024.06 ~ 2024.07 | Front-end | React.js, Naver Maps API, ApexChart | 최우수상                 |
+| [**탄소감축을 위한 바다숲 조성 데이터 분석 프로젝트**](https://github.com/m1-j1n/datacampus) | 2022.06 ~ 2022.09 | 데이터분석      | Python, AWS          | 우수상  |
 
 
 ### **Certificates**
