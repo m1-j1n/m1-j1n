@@ -37,4 +37,8 @@
 - **빅데이터분석기사** (2022.12)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{m1-j1n}/count.svg)
+<div style="text-align: center; font-size: 18px;">
+  <h3>🌟 Total Visitors 🌟</h3>
+  <img src="https://profile-counter.glitch.me/{m1-j1n}/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
+
